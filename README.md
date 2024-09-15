@@ -28,12 +28,12 @@ Se você quiser contribuir com este projeto, siga estas etapas:
 
 ## Autor
 
-Desenvolvido por [JohnatanG3](https://github.com/SeuUsuario).
+Desenvolvido por [JohnatanG3](https://github.com/JohnatanG3).
 
 ## Contato
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo:
 
-- **GitHub:** [JohnatanG3](https://github.com/SeuUsuario)
+- **GitHub:** [JohnatanG3](https://github.com/JohnatanG3)
 - **LinkedIn:** [Johnatan Vieira](https://www.linkedin.com/in/johnatan-vieira-a602542aa/)
 - **E-mail:** johnatan.g3@protonmail.com
