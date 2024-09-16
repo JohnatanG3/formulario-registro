@@ -14,6 +14,10 @@ Este é um formulário de registro desenvolvido em React.js utilizando as seguin
 - Exibe mensagens de erro caso haja problemas de validação.
 - Permite seleção do mês, dia e ano de nascimento através de selects.
 
+## Imagem do Projeto
+
+![](https://i.ibb.co/86MZVFS/Sem-t-tulo-2.png)
+
 ## Contribuição
 
 # Como Contribuir
